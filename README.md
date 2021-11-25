@@ -1,7 +1,7 @@
 # Dr. Sayeed Ghani
 
-## My profile
+## My profile 
 
 ### Is under Construction!!
 
-*Hope to be up soon...*
+*Hope to be up soon in the near future ...*
