@@ -1,5 +1,5 @@
-h1 Dr. Sayeed Ghani
+# Dr. Sayeed Ghani
 
-h2 My profile
+## My profile
 
-h3 Is under Construction!!
+### Is under Construction!!
